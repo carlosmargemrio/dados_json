@@ -2,14 +2,14 @@
     
    
     {
-        "id_bem": 50795,
+        "id_bem": null,
         "coordinates": [
-            -41.6743,
-            -6.4939
+            -41.67438,
+            -6.49399
         ],
-        "identificacao_bem": "Dalva",
-        "co_iphan": "PI2211308BAST00014",
-        "sintese_bem": "Dalva, localizado(a) no estado de Piauí, cidade(s) de Valença do Piauí, é um Bem Arqueológico, do tipo Sítio.",
+        "identificacao_bem": "Teste",
+        "co_iphan": "54",
+        "sintese_bem": "Dalva, é minha mãe.",
         "imagem_url": null,
         "municipio": "Valença do Piauí"
     },
