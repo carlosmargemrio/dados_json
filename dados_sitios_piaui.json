@@ -4,11 +4,11 @@
         "id_bem": 122,
         "coordinates": [
             -41.67438,
-            -6.49399
+            -6.425555
         ],
         "identificacao_bem": "Teste",
         "co_iphan": "Dados do ETSRN",
-        "sintese_bem": "Dalva, é minha mãe.",
+        "sintese_bem": "testando uma síntese",
         "imagem_url": null,
         "municipio": "Valença do Piauí",
         "ds_classificacao": "Pré-colonial"
@@ -21,7 +21,7 @@
         ],
         "identificacao_bem": "oxente",
         "co_iphan": null,
-        "sintese_bem": "Pé do Nosso Senhor, localizado(a) no estado de Piauí, cidade(s) de Valença do Piauí, é um Bem Arqueológico, do tipo Sítio.",
+        "sintese_bem": "outra síntese de teste",
         "imagem_url": null,
         "municipio": "Bonfim do Piauí",
        "ds_classificacao": "Pré-colonial e histórico"
@@ -30,7 +30,7 @@
         "id_bem": 50797,
         "coordinates": [
             -41.6744,
-            -6.4937
+            -6.43373
         ],
         "identificacao_bem": "Baixão das duas áreas",
         "co_iphan": "PI2211308BAST00016",
