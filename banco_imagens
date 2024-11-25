@@ -3,12 +3,12 @@
         "sitio": "Pedra Furada",
         "imagens": [
             {
-                "nome": "IMG_(1)",
-                "coordenadas_utm": "23 K 201226 7992592",
+                "imageName": "IMG_(1)",
+                "imageCoordinates": "23 K 201226 7992592",
                 "data": "15/10/24",
                 "horario": "12:00:00",
                 "legenda": "Remoção do horizonte A do solo",
-                "autoria": "Arqueologika",
+                "autoria": "Arqueologika"
             },
             {
                 "nome": "IMG_(2)",
