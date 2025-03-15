@@ -1,5 +1,29 @@
 [
     {
+        "id_bem": 51671,
+        "coordinates": [
+            -40.6424,
+            -8.0352
+        ],
+        "identificacao_bem": "Betania",
+        "co_iphan": "PI2201739BAST00004",
+        "sintese_bem": "Betania, localizado(a) no estado de Piauí, cidade(s) de Betânia do Piauí, é um Bem Arqueológico, do tipo Sítio.",
+        "imagem_url": null,
+        "municipio": "Betânia do Piauí"
+    },
+    {
+        "id_bem": 51672,
+        "coordinates": [
+            -40.7289,
+            -8.061
+        ],
+        "identificacao_bem": "Caititu",
+        "co_iphan": "PI2201739BAST00005",
+        "sintese_bem": "Caititu, localizado(a) no estado de Piauí, cidade(s) de Betânia do Piauí, é um Bem Arqueológico, do tipo Sítio.",
+        "imagem_url": null,
+        "municipio": "Betânia do Piauí"
+    },
+    {
         "id_bem": 52045,
         "coordinates": [
             -42.8684,
