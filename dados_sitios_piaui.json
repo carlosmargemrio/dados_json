@@ -1,5 +1,17 @@
 [
     {
+        "id_bem": 52380,
+        "coordinates": [
+            -42.6277, 
+            -4.835
+        ],
+        "identificacao_bem": "Fazenda São Domingos",
+        "co_iphan": "PI2205508BAST00001",
+        "sintese_bem": "Fazenda São Domingos, também conhecido(a) como Casa-grande do São Domingos, localizado(a) no estado de Piauí, cidade(s) de José de Freitas, é um Bem Arqueológico, do tipo Sítio.",
+        "imagem_url": "https://sicg.iphan.gov.br/sicg/images/MultimidiaServlet?nomeArquivo=857b36685617e828083aa65cb5136224.1744912253363.jpg",
+        "municipio": "José de Freitas"
+    },
+    {
         "id_bem": 51671,
         "coordinates": [
             -40.6424,
