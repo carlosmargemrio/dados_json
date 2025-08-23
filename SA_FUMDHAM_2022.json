@@ -32559,7 +32559,8 @@
         "FICHA_CNSA": true,
         "PUBLICAÇÃO": false,
         "NOME_ALTERNATIVO": null,
-        "OBSERVAÇÕES": null
+        "OBSERVAÇÕES": null, 
+        "imagem_url": "https://raw.githubusercontent.com/carlosmargemrio/imagensETSRN/refs/heads/main/imagens7/thumbs/SA_Lagoa_de_Cima_IX_Toca_da(1).webp"
     },
     {
         "co_fumdham": "751",
@@ -60327,3 +60328,4 @@
     }
 
 ]
+
