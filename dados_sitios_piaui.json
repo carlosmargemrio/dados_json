@@ -1,4 +1,17 @@
 [
+     {
+        "id_bem": "52813",
+        "coordinates": [
+            -41.223464288896565,
+            -5.032060911257639
+            
+        ],
+        "identificacao_bem": "Alto do Barreiro",
+        "co_iphan": "PI2202026BAST00029",
+        "sintese_bem": "Sítio a céu-aberto multicomponencial com artefatos líticos pré-coloniais identificados em superfície, em arenito, silexito e quartzo, ocorrendo ainda mós e mãos-de-mó. Apresenta artefatos não indígenas também.",
+        "imagem_url": "https://sicg.iphan.gov.br/sicg/images/MultimidiaServlet?nomeArquivo=395f45edaef7e14660f1d84a822fa6dd.1753275330974.jpg",
+        "municipio": "Buriti dos Montes"
+    },
     {
         "id_bem": 52378,
         "coordinates": [
