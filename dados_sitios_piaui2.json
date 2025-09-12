@@ -70488,6 +70488,43 @@
     },
     {
       "type": "Feature",
+      "id": "sitios.fid-5381ce2b_1993c43258b_768b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3741,
+          -9.2885
+        ]
+      },
+      "geometry_name": "ponto",
+      "properties": {
+        "id_bem": 50702,
+        "identificacao_bem": "Pimenteiras IV",
+        "co_iphan": "PI2202505BAST00029",
+        "no_logradouro": "Caracol",
+        "nu_logradouro": null,
+        "id_natureza": 3,
+        "ds_natureza": "Bem Arqueológico",
+        "codigo_iphan": "BA",
+        "id_classificacao": 41,
+        "ds_classificacao": "Pré-colonial",
+        "id_tipo_bem": 4,
+        "ds_tipo_bem": "Sítio",
+        "sg_tipo_bem": "ST",
+        "sintese_bem": "Pimenteiras IV, localizado(a) no estado de Piauí, cidade(s) de Caracol, é um Bem Arqueológico, do tipo Sítio.",
+        "imagem_url": "https://sicg.iphan.gov.br/sicg/images/MultimidiaServlet?nomeArquivo=4b7c3d42c24787591d55cd465b44ebe8.1756514446346.png",
+        "municipio": "Caracol",
+        "dt_cadastro": "2024-09-16Z"
+      },
+      "bbox": [
+        -43.3741,
+        -9.2885,
+        -43.3741,
+        -9.2885
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sitios.fid-5381ce2b_1993c43258b_768c",
       "geometry": {
         "type": "Point",
