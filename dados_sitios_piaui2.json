@@ -70488,16 +70488,6 @@
     },
     {
       "type": "Feature",
-      "id": "sitios.fid-5381ce2b_1993c43258b_768b",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.3741,
-          -9.2885
-        ]
-      },
-     {
-      "type": "Feature",
       "id": "sitios.fid-5381ce2b_1993c43258b_768c",
       "geometry": {
         "type": "Point",
