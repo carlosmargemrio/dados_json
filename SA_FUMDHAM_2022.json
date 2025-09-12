@@ -9766,7 +9766,8 @@
         "FICHA_CNSA": true,
         "PUBLICAÇÃO": false,
         "NOME_ALTERNATIVO": null,
-        "OBSERVAÇÕES": null
+        "OBSERVAÇÕES": null,
+        "imagem_url": "https://sicg.iphan.gov.br/sicg/images/MultimidiaServlet?nomeArquivo=83ad5c119e308586f0723507d15d80ee.1757701620176.jpg"
     },
     {
         "co_fumdham": "227",
@@ -60329,6 +60330,7 @@
     }
 
 ]
+
 
 
 
