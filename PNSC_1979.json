@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "name": "PNSC_limite_aproximado_decreto_83_548_1979",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PNSC",
+        "nome": "Parque Nacional da Serra da Capivara",
+        "origem": "Envelope aproximado a partir do Decreto nº 83.548/1979 e coordenadas extremas da literatura técnica",
+        "lat_norte": -8.447222,
+        "lat_sul": -8.989722,
+        "lon_oeste": -42.764167,
+        "lon_leste": -42.329722
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-42.764167, -8.447222],
+            [-42.329722, -8.447222],
+            [-42.329722, -8.989722],
+            [-42.764167, -8.989722],
+            [-42.764167, -8.447222]
+          ]
+        ]
+      }
+    }
+  ]
+}
